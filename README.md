@@ -1,21 +1,26 @@
 **Social Media Web App** 
 <br>
-Where users can create posts share with their
+Where users can create posts share with their<br>
 followers & chat with each other.
-
+<br>
+<br>
 Usage
+<br>
 
 Env Variables
+<br>
 In .env file in api folder add 
+<br>
 MONGO_URL =your MongDB url
+<br>
 
-Install Dependencies 
-Using npm install in api,client and socket folder
+Install Dependencies <br>
+Using npm install in api,client and socket folder<br>
 
- Run
- use npm start (:8800) for in api folder(backend)
- use npm start (:8900) for  in socket folder(for use of socket in chat)
- use npm start (:3000) for  in client folder(for frontend) 
+ Run<br>
+ use npm start (:8800) for in api folder(backend)<br>
+ use npm start (:8900) for  in socket folder(for use of socket in chat)<br>
+ use npm start (:3000) for  in client folder(for frontend) <br>
 
 
 
