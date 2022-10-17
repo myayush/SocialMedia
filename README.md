@@ -4,7 +4,7 @@ Where users can create posts share with their<br>
 followers & chat with each other.
 <br>
 <br>
-**Usage
+**Usage**
 <br>
 
 **Env Variables**
