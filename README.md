@@ -1,5 +1,6 @@
-
-A Social Media web app where users can create posts share with their
+**Social Media Web App** 
+Where users can create posts share with their
 followers & chat with each other.
+
 
 
