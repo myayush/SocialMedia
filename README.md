@@ -18,7 +18,7 @@ MONGO_URL =your MongDB connection url
 Using npm install in api,client and socket folder<br>
 
  **Run<br>**
- use
+ use<br>
  npm start (:8800 port)  in api folder(backend)<br>
  npm start (:8900 port)  in socket folder(for use of socket in chat)<br>
  npm start (:3000 port)  in client folder(for frontend) <br>
