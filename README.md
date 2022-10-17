@@ -19,9 +19,9 @@ Using npm install in api,client and socket folder<br>
 
  **Run<br>**
  use
- npm start (:8800)  in api folder(backend)<br>
- npm start (:8900)  in socket folder(for use of socket in chat)<br>
- npm start (:3000)  in client folder(for frontend) <br>
+ npm start (:8800 port)  in api folder(backend)<br>
+ npm start (:8900 port)  in socket folder(for use of socket in chat)<br>
+ npm start (:3000 port)  in client folder(for frontend) <br>
 
 
 
