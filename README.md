@@ -1,4 +1,4 @@
-**Have A Chat* 
+**Have A Chat**
 
 This is live at https://haveachat.netlify.app/
 <br>
